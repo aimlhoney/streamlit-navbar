@@ -1,0 +1,6 @@
+include README.md
+include streamlit_navbar/frontend/*.html
+include streamlit_navbar/frontend/*.js
+recursive-include streamlit_navbar/frontend *
+graft streamlit_navbar/frontend
+global-exclude __pycache__ *.py[cod]

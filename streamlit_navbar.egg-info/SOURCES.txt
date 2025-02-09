@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+streamlit_navbar/__init__.py
+streamlit_navbar/navbar_component.py
+streamlit_navbar.egg-info/PKG-INFO
+streamlit_navbar.egg-info/SOURCES.txt
+streamlit_navbar.egg-info/dependency_links.txt
+streamlit_navbar.egg-info/requires.txt
+streamlit_navbar.egg-info/top_level.txt
+streamlit_navbar/frontend/bundle.js
+streamlit_navbar/frontend/index.html
