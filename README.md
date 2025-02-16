@@ -37,5 +37,10 @@ else:
   st.subheader("Home")
 ```
 ### Images
+<img width="1057" alt="Screenshot 2025-02-16 at 2 21 04 PM" src="https://github.com/user-attachments/assets/781bc23d-eaa9-4186-873c-990c7965ea40" />
 
 ### Demo
+
+
+https://github.com/user-attachments/assets/f4380287-9700-4d5f-af95-8f9b7558114a
+
